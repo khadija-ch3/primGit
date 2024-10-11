@@ -1,0 +1,8 @@
+
+<mesa>
+La mesa de
+<material>madera</material>
+es de color
+<color>marrón</color>
+.
+</mesa>
